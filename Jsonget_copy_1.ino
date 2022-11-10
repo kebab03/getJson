@@ -3,7 +3,7 @@
 #include <HTTPClient.h>
 
 const char* ssid     = "FASTWEB-cdU9qz";
-const char* password = "d6zBNGPCmc";
+const char* password = "code ";
 
 // const char* ssid     = "TCL 20Y";
 // const char* password = "123456al";
